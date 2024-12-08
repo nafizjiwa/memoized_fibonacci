@@ -2,7 +2,9 @@
 
 Create a memoized fibonacci() function. This function should return the nth Fibonacci number.
 
-Note: To avoid an infinite loop, either handle the edge case of negative numbers in your function, or don’t call it using negative numbers.
+Note: To avoid an infinite loop, <br />
+either handle the edge case of negative numbers in your function, <br />
+or don’t call it using negative numbers.
 
       memo = {}
       
